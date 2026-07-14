@@ -1,4 +1,4 @@
-#Prototipo de Sistema de Comercio Electrónico (Arquitectura 3 Capas)
+##Prototipo de Sistema de Comercio Electrónico (Arquitectura 3 Capas)
 
 Este proyecto es una implementación completa de un sistema de comercio electrónico, desarrollado utilizando una arquitectura de tres capas (Cliente, Servidor de Aplicaciones y Base de Datos). El objetivo principal del desarrollo fue construir un sistema robusto gestionando peticiones RESTful, control de concurrencia y transacciones de base de datos.
 
